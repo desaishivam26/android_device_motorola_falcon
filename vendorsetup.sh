@@ -1,0 +1,3 @@
+add_lunch_combo aosp_falcon-userdebug
+add_lunch_combo aosp_falcon-user
+add_lunch_combo aosp_falcon-eng
